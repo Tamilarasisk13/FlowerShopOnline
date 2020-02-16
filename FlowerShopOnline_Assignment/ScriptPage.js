@@ -80,7 +80,3 @@ function ValidateCity() {
         alert("Please enter valid city!");
     }
 }
-
-
-
-
